@@ -100,9 +100,7 @@ This project is being developed as part of the coursework for Data Communication
 
 ## Contributors
 
-- [Your Name]
-- [Team Member 1]
-- [Team Member 2]
+- Sahil Gawade
 
 ## License
 
