@@ -4,10 +4,6 @@
 
 This is an academic project developed for the Data Communication and Computer Networks subject. The application is a real-time chat platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-## Project Status
-
-⚠️ **Note:** This project is currently under development.
-
 ## Features
 
 - Real-time messaging
